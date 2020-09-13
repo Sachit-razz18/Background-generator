@@ -1,0 +1,27 @@
+ul{
+	list-style:none;
+	display:block;
+}
+li {
+
+	list-style:none;
+	display:block;
+
+}
+.warning {
+
+
+	background-color:rgba(252, 11, 3, 0.1) ;
+
+border:1px solid orange;
+font-size:14px;
+overflow :hidden;
+margin-left:280px;
+margin-right:280px;
+padding:5px;
+padding right:0.009px;
+}
+.warningcontainer{
+	
+	margin-right:60px;
+}
